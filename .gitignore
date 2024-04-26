@@ -1,0 +1,8 @@
+.idea
+catboost_info
+checkpoints
+dataset
+eval_result
+venv
+__pycache__
+requirements.txt
