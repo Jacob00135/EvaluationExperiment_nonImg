@@ -1,7 +1,8 @@
 .idea
 catboost_info
 checkpoints
-dataset
+dataset/train.csv
+dataset/test.csv
 eval_result
 venv
 __pycache__
